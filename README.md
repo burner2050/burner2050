@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @burner2050
 - 👀 I’m interested in aerospace projects, blockchain, etc
-- 🌱 I’m currently learning javascript & tools
 - 💞️ I’m looking to collaborate on anything I find interesting 
 - 📫 How to reach me ... just PM me!
 
